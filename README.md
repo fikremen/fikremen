@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Fikre Mengistu @fikremen
-- Im a $th year undergraduate student at Georgia Institute of Technology persuing a B.S. in Computer Science with concentrations in Intelligence and Computer Informational Systems
+- Im a 4th year undergraduate student at Georgia Institute of Technology persuing a B.S. in Computer Science with concentrations in Intelligence and Computer Informational Systems
 - 👀 I’m interested in back end and machine learning/AI projects
 - 🌱 I’m currently learning artifical intellegence and machine learning
 - 📫 You can reach me by email: fikremen@gmail.com
